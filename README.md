@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python,Sql
-- 📫 How to reach me email
+- 📫 Reach me on my email
 
 <!---
 isaigunesh/isaigunesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
